@@ -1,4 +1,4 @@
-# Iris Classification using Logistic Regression
+# 1.Iris Classification using Logistic Regression
 
 ## 📌 Overview
 This project classifies iris flowers into three species:
@@ -22,7 +22,7 @@ Includes decision boundary plot using petal features.
 ## 🛠️ Tech Stack
 - Python,Matplotlib, Pandas,Scikit-learn
   
-# Car Price Prediction
+# 2.Car Price Prediction
 
 ## 📌 Overview
 Predicts car selling prices using machine learning.
